@@ -1,0 +1,14 @@
+{
+    "name": "js_lib",
+    "description": "Web components",
+    "authors": "Konrad Schmid",
+    "version": "1.0.0",
+    "main": "--",
+    "repository": {
+        "url": "https://github.com/uid01089/js_web_comp"
+    },
+    "dependencies": {
+        "js_web_comp_lib": "file:../js_web_comp_lib",
+        "js_lib": "file:../js_lib"
+    }
+}
